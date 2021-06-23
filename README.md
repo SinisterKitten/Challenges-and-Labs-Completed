@@ -1,2 +1,4 @@
-# CTF-Walkthroughs
-These are some of the CTF challenges I have worked on
+- [CTF Walk-Throughs](#ctf-walk-throughs)
+  * [OverTheWire](#overthewire)
+- [Tool Demo's](#tool-demo-s)
+  * [Rubber Ducky](#rubber-ducky)
