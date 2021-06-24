@@ -1,5 +1,5 @@
 # CTF Walk-Throughs
-  * [OverTheWire](#overthewire)
+  * [OverTheWire](#8overthewire)
   
   
 - [Tool Demo's](#tool-demo-s)
@@ -7,7 +7,7 @@
 
    ## OverTheWire
     
-     #### Bandit 0
+    #### Bandit 0
      
      ![alt text](https://res.cloudinary.com/s1n1s73r-k1773n/image/upload/v1624315610/overthewire/Bandit0_thh95i.png)
 
