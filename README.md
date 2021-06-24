@@ -72,12 +72,9 @@
   ####   Bandit 10
 
      - After displaying contents in the file, a base64 code is given
-     - Use cyberchef to decode it.
+     - Use [CyberChef](https://gchq.github.io/CyberChef/) to decode it.
      
   ####   Bandit 11
 
     - The file contained a rot13 code
-     - Decrypted with cyber chef
-
-
-      In this lab, I was only able to complete level 12. I was able to create a directory but wasn’t sure where to go from that point. I used Goog
+    - Decrypted with [CyberChef](https://gchq.github.io/CyberChef/). 
