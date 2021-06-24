@@ -46,7 +46,7 @@
      -	ls to list files in inhere
      -	Since there were so many files within the files, use the "find" cmd
      -	Find cmd shows only one file that has the size given for the password
-     -
+    
     #### Bandit 6
 
      -	On the server somewhere, so use find cmd
