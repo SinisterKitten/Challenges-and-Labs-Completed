@@ -1,9 +1,9 @@
 # CTF Walk-Throughs
  * [OverTheWire](#overthewire)
 
-- [Tool Demo's](#tool-demo-s)
-  * [Rubber Ducky](#rubber-ducky)
-  * - [Tool Demo's](#tool-demo-s)
+- [place holder](#place-holder)
+  * [place holder](#rubber-ducky)
+  * - [place holder](#tool-demo-s)
   
 
    ## OverTheWire
